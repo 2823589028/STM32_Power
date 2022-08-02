@@ -1,0 +1,3 @@
+#二选一
+git remote add origin git@github.com:yourName/repositoryname.git
+git remote add origin https://github.com/yourName/repositoryname.git
